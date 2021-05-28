@@ -1,25 +1,22 @@
 import './scss/main.scss';
-// import './js/jquery.min';
 
 import * as $ from 'jquery';
 window.jQuery = $;
 window.$ = $;
 
 import "jquery-migrate";
-import "./js/popper.min";
-import "./js/bootstrap.min";
-import "./js/jquery.easing";
+// import "popper.js";
+import "bootstrap";
+import "jquery.easing";
 import "./js/jquery.waypoints.min"; //install jquery-waypoints
-// import "./js/jquery.stellar.min"; паралах на удаление
-import "./js/jquery.animateNumber.min";
-import "./js/bootstrap-datepicker";
-import "./js/jquery.timepicker.min";
-import "./js/owl.carousel.min";
-import "./js/jquery.magnific-popup.min";
-import "./js/scrollax.min";
+import "jquery.animate-number";
+import "bootstrap-datepicker";
+import "jquery-timepicker/jquery.timepicker";
+import "owl.carousel";
+import "magnific-popup";
+import "scrollax";
 // import "google-maps"; //из папки не подгружает ошибка на сайте
 import "./js/main";
 
-// import './js/jquery-3.2.1.min'; ненужен
 // import 'maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false';
 
