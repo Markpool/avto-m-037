@@ -290,6 +290,7 @@
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
     "jest-worker": "^26.6.2",
+    "jquery.animate-number": "^0.0.14",
     "js-stringify": "^1.0.2",
     "json-parse-better-errors": "^1.0.2",
     "json-schema-traverse": "^0.4.1",
